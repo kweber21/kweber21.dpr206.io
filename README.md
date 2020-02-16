@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to my DPR 206 Intro page
 
-You can use the [editor on GitHub](https://github.com/kweber21/kweber21.dpr206.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Hi my name is Kelsey Weber
+#### I'm 20 years old. I'm currently pursuing an Associate's degree in Web Development at Delaware County Community College. I'm one of five kids in my family, having two brothers and two sisters. Some of my favorite things to do are performing in musicals, play field hockey, taking photos, and recently I've gotten into drawing and canvas painting. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+List of portfolio projects:
 
-```markdown
-Syntax highlighted code block
+* Media Queries
 
-# Header 1
-## Header 2
-### Header 3
+* Skeleton
 
-- Bulleted
-- List
+* Flexbox
 
-1. Numbered
-2. List
+* Bootstrap
 
-**Bold** and _Italic_ and `Code` text
+* UIKit
+  
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kweber21/kweber21.dpr206.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### This is a photo of me and my family. 
+![](images/family.jpg)
