@@ -56,11 +56,19 @@ h3 { color: #4D0066;
      text-align: center;
 }
 
+h4 { color: #000000; 
+     font-family: arial, sans-serif;
+     font-style: bold;
+     letter-spacing: normal;
+     word-spacing: 0.3em;
+     text-align: left;
+     
+}
 
 img {
   width: 15%;
   height: 8%;
-  margin: 85px;
+  padding: 16px;
 }
 
 footer {font-size:70%;
